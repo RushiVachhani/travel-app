@@ -77,10 +77,6 @@
 }
 
 @media screen and (max-width: 960px) {
-  .NavbarItems {
-    position: relative;
-  }
-
   .nav-menu {
     display: flex;
     flex-direction: column;
@@ -99,6 +95,10 @@
     opacity: 1;
     transition: all 0.5s ease;
     z-index: 1;
+  }
+
+  .nav-item {
+    transform: translate(0, -150px);
   }
 
   .nav-links {
