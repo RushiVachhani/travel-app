@@ -8,7 +8,7 @@ export default function Products() {
       <img
         src="/images/img-2.jpg"
         className="background-image"
-        alt="products-background-image"
+        alt="products-background"
       ></img>
     </>
   );

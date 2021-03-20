@@ -8,7 +8,7 @@ export default function SignUp() {
       <img
         src="/images/img-8.jpg"
         className="background-image"
-        alt="signup-background-image"
+        alt="signup-background"
       ></img>
     </>
   );

@@ -8,7 +8,7 @@ export default function Services() {
       <img
         src="/images/img-1.jpg"
         className="background-image"
-        alt="services-background-image"
+        alt="services-background"
       ></img>
     </>
   );
